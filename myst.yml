@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 780b0d6f-ba5a-4d7c-8267-fe87c11c5465
+  # title: Radiation
+  # description: Omgaan met Planck en Kirchoff
+  # keywords: [Plancks' Law Kirchoffs' law]
+  # authors: [W. Bartels]
+  # github: https://github.com/Wi-Ba/STEM_Planck
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
