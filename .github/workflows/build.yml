@@ -22,7 +22,11 @@ jobs:
         run: npm install -g mystmd
 
       - name: Build the site
-        run: myst build --html --output _site
+        run: myst build
+       
+      
+      - name: List files (debug)
+        run: ls -R
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
