@@ -4,8 +4,10 @@
 All objects with a temperature above absolute zero emit electromagnetic radiation. Electromagnetic radiation covers the whole spectrum: from gamma rays all the way to radio waves. The definition of each type of radiation is based on wavelength, and can be seen in [](#fig:wavelengths) 
 
 % A figure of a photograph of some mountains, followed by a caption
-:::{figure} ..Documents/STEM_ED_SIGNALS/testbook1/figures/radiationspectrum.png
+:::{figure} ../figures/radiationspectrum.png
 :label: fig:wavelengths
+Radiation spectrum
+:::
 
 Thermal radiation refers to a specific wavelength range, where radiation
 
