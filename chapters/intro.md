@@ -6,7 +6,8 @@ All objects with a temperature above absolute zero emit electromagnetic radiatio
 % A figure of a photograph of some mountains, followed by a caption
 :::{figure} ../figures/radiationspectrum.png
 :label: fig:wavelengths
-Radiation spectrum
+:width: 80%
+Electromagnetic radiation spectrum
 :::
 
 Thermal radiation refers to a specific wavelength range, where radiation
