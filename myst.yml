@@ -13,12 +13,4 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
-  
-format:
-  html:
-    theme: default
-
-build:
-  contents:
-    - file: chapter/index.md
 
