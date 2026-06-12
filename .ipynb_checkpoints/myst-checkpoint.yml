@@ -2,14 +2,16 @@
 version: 1
 project:
   id: 780b0d6f-ba5a-4d7c-8267-fe87c11c5465
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  # github:
+  # title: Radiation
+  # description: Omgaan met Planck en Kirchoff
+  # keywords: [Plancks' Law Kirchoffs' law]
+  # authors: [W. Bartels]
+  # github: https://github.com/Wi-Ba/wiba.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
+  base_url: /
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
