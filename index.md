@@ -11,6 +11,11 @@ Electromagnetic radiation spectrum
 
 Thermal radiation refers to a specific wavelength range, where radiation
 
+```{button-link} Planck2
+:color: primary
+Open Interactive Planck Curve Explorer
+```
+
 # Introduction
 
 I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
