@@ -6,7 +6,7 @@ project:
   # description: first attempt
   # keywords: [Planck]
   # authors: [W. Bartels]
-  # github: https://github.com/Wi-Ba/wiba.github.io
+  # github: /wiba.github.io
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
