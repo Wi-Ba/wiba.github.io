@@ -1,0 +1,20 @@
+CHANGE DIR
+% cd Documents\STEM_ED_SIGNALS\testbook2
+
+GITHUB
+update files in github
+git pull origin main
+git add .
+git commit -m "Update site content"
+git push origin main
+
+status checks:
+
+git status
+git log --oneline -5
+git branch
+
+A quick one-liner that often works when you've only changed content is:
+git add . && git commit -m "Update website" && git push origin main
+
+RUN JUPYTERBOOK LOCALLY
