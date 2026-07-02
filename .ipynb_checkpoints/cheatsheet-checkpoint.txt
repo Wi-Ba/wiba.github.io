@@ -1,5 +1,5 @@
 CHANGE DIR
-% cd Documents\STEM_ED_SIGNALS\testbook2
+% cd Documents\STEM_ED_SIGNALS\testbook2_local
 
 GITHUB
 update files in github
@@ -17,4 +17,22 @@ git branch
 A quick one-liner that often works when you've only changed content is:
 git add . && git commit -m "Update website" && git push origin main
 
+JUPYTERBOOK BEFORE PUSHING TO GITHUB
+
+
+
+
 RUN JUPYTERBOOK LOCALLY
+
+
+DEPLOY.YML BASE_URL
+name: Jupyter Book (via myst) GitHub Pages Deploy
+on:
+  push:
+    # Runs on pushes targeting the default branch
+    branches: [main]
+env:
+  # `BASE_URL` determines, relative to the root of the domain, the URL that your site is served from.
+  # E.g., if your site lives at `https://mydomain.org/myproject`, set `BASE_URL=/myproject`.
+  # If, instead, your site lives at the root of the domain, at `https://mydomain.org`, set `BASE_URL=''`.
+  BASE_URL: '/wiba.github.io'
