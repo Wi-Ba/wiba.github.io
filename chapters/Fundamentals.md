@@ -67,7 +67,7 @@ $$
 
 The area under the Planck curve therefore grows very rapidly with temperature.
 
-```{code-cell}
+```{code-cell} python
 :tags: [remove-input]
 
 
