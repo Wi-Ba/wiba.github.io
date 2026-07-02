@@ -1,0 +1,23 @@
+[
+  {
+    "question": "According to Wien's displacement law, what happens when temperature increases?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "The peak wavelength shifts to shorter wavelengths.",
+        "correct": true,
+        "feedback": "Correct. Higher temperatures shift the emission peak to smaller wavelengths."
+      },
+      {
+        "answer": "The peak wavelength shifts to longer wavelengths.",
+        "correct": false,
+        "feedback": "Incorrect. The opposite happens."
+      },
+      {
+        "answer": "The peak wavelength remains constant.",
+        "correct": false,
+        "feedback": "Incorrect. The peak depends on temperature."
+      }
+    ]
+  }
+]

@@ -18,12 +18,12 @@ A quick one-liner that often works when you've only changed content is:
 git add . && git commit -m "Update website" && git push origin main
 
 JUPYTERBOOK BEFORE PUSHING TO GITHUB
-
-
+??myst build??
 
 
 RUN JUPYTERBOOK LOCALLY
-
+jupyter-book init
+jupyter-book start (maar alleen nodig als je niet Y hebt gekozen bij init).
 
 DEPLOY.YML BASE_URL
 name: Jupyter Book (via myst) GitHub Pages Deploy
