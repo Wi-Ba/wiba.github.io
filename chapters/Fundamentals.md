@@ -67,7 +67,6 @@ $$
 
 The area under the Planck curve therefore grows very rapidly with temperature.
 
+```{include} ../interactive/WIDG_Planck_Wien.ipynb
+```
 
-Open the interactive Planck curve explorer:
-
-[Planck Curve Explorer](../interactive/WIDG_Planck_Wien)
