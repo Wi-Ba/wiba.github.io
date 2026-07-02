@@ -11,12 +11,10 @@ project:
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
-  # options:
+  options:
+      numbered: True
   #   favicon: favicon.ico
   #   logo: site_logo.png
-  nav:
-    - title: Home
-      url: ../index.md
-
-    - title: Fundamentals
-      url: ../chapters/Fundamentals.ipynb
+  chapters:
+    - file: index.md
+    - file: chapters/Fundamentals.ipynb
