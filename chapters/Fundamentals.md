@@ -2,7 +2,7 @@
 All objects with a temperature above absolute zero emit electromagnetic radiation. Electromagnetic radiation covers the whole spectrum: from gamma rays all the way to radio waves. The definition of each type of radiation is based on wavelength, and can be seen in [](#fig:wavelengths) 
 
 % A figure of a photograph of some mountains, followed by a caption
-:::{figure} radiationspectrum.png
+:::{figure} ../figures/radiationspectrum.png
 :label: fig:wavelengths
 :width: 80%
 Electromagnetic radiation spectrum
@@ -66,3 +66,8 @@ $$
 $$
 
 The area under the Planck curve therefore grows very rapidly with temperature.
+
+
+Open the interactive Planck curve explorer:
+
+[Planck Curve Explorer](../interactive/WIDG_Planck_Wien)
