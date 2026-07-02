@@ -67,11 +67,7 @@ $$
 
 The area under the Planck curve therefore grows very rapidly with temperature.
 
-```{code-cell} python
-:tags: [remove-input]
-
-
-
+```python
 import numpy as np
 import plotly.graph_objects as go
 
@@ -315,4 +311,16 @@ fig.update_layout(
 #####################################
 fig.show(config={"responsive": True})
 ```
+
+
+    
+![png](WIDG_Planck_Wien_files/WIDG_Planck_Wien_0_0.png)
+    
+
+
+
+```python
+
+```
+
 

@@ -20,3 +20,7 @@ site:
 
     - title: Fundamentals
       url: chapters/Fundamentals
+      
+execute:
+  execute_notebooks: forc
+
