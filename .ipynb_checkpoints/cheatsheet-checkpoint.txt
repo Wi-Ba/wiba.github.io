@@ -36,3 +36,8 @@ env:
   # E.g., if your site lives at `https://mydomain.org/myproject`, set `BASE_URL=/myproject`.
   # If, instead, your site lives at the root of the domain, at `https://mydomain.org`, set `BASE_URL=''`.
   BASE_URL: '/wiba.github.io'
+
+VISIBILITY IPYNBcells ON GITHUBPAGES
+remove-input #hides cell but shows output.
+remove-cell #hides cell/input AND output
+hide-input #hides cell but can be clicked open so code can be inspected
