@@ -9,12 +9,11 @@ project:
   # keywords: [Planck]
   github: https://github.com/Wi-Ba/wiba.github.io
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+      title: Home
+    - file: chapters/Fundamentals.ipynb
 site:
   template: book-theme
-  options:
-      numbered: True
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
-  chapters:
-    - file: index.md
-    - file: chapters/Fundamentals.ipynb
+  
+
