@@ -9,7 +9,6 @@ project:
   jupyter:
     binder:
       repo: Wi-Ba/wiba.github.io
-      branch: main
   toc:
     - file: index.md
       title: Home
