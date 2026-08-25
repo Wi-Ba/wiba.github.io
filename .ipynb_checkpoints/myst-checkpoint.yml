@@ -3,10 +3,11 @@ version: 1
 
 project:
   id: f0fe0848-3e4d-4333-bd10-450d468374b9
-  title: Thermal Radiation
-  authors: [W. Bartels]
-  #description: first attempt
-  # keywords: [Planck]
+  title: Processes in Porous Materials
+  authors: [W. Bartels, D. Rieder, M. Ruecker]
+  jupyter:
+      server: lite
+      kernel: python 3
   github: https://github.com/Wi-Ba/wiba.github.io
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -17,10 +18,5 @@ project:
     - file: chapters/SinglePhaseFlow_inPM.ipynb
 site:
   template: book-theme
-
-launch_buttons:
-  thebe: true
-  thebe_config:
-    use_jupyterlite: true
   
 
