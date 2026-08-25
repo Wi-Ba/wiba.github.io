@@ -7,7 +7,9 @@ project:
   authors: [W. Bartels, D. Rieder, M. Ruecker]
   github: https://github.com/Wi-Ba/wiba.github.io
   edit_url: null
-  
+  jupyter:
+    binder:
+      repo: Wi-Ba/wiba.github.io
   
   toc:
     - file: index.md
