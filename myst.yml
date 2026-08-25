@@ -6,9 +6,9 @@ project:
   title: Processes in Porous Materials
   authors: [W. Bartels, D. Rieder, M. Ruecker]
   github: https://github.com/Wi-Ba/wiba.github.io
-  jupyter:
-    binder:
-      repo: Wi-Ba/wiba.github.io
+  edit_url: null
+  jupyter: null
+
   toc:
     - file: index.md
       title: Home
