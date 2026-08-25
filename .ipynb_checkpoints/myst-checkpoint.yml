@@ -7,7 +7,6 @@ project:
   authors: [W. Bartels, D. Rieder, M. Ruecker]
   github: https://github.com/Wi-Ba/wiba.github.io
   edit_url: null
-  jupyter: null
 
   toc:
     - file: index.md
@@ -16,3 +15,7 @@ project:
 
 site:
   template: book-theme
+  options:
+    # ...maar verbergt de raket- en aan/uit-knoppen volledig in de interface!
+    hide_launcher: true
+    show_launch_buttons: false
