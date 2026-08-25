@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Void ratio (e) and porosity (phi) are related soil properties. Which of the following expressions correctly relates porosity to void ratio?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "phi=frace1+e",
+        "correct": true,
+        "feedback": "Correct."
+      },
+      {
+        "answer": "phi=1+e",
+        "correct": false,
+        "feedback": "Incorrect. This would mean that porosity could be greater than 1, which is impossible by definition. 0lephilt1"
+      },
+      {
+        "answer": "phi=frace1−e",
+        "correct": false,
+        "feedback": "Incorrect. You can verify this easily by plugging in e=0.5."
+      },
+      {
+        "answer": "phi=frac11+e",
+        "correct": false,
+        "feedback": "Incorrect."
+      },
+        {
+        "answer": "phi=frac11−e",
+        "correct": false,
+        "feedback": "Incorrect."
+      }
+        
+    ]
+  }
+]
