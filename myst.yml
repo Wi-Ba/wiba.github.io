@@ -17,5 +17,10 @@ project:
     - file: chapters/SinglePhaseFlow_inPM.ipynb
 site:
   template: book-theme
+
+launch_buttons:
+  thebe: true
+  thebe_config:
+    use_jupyterlite: true
   
 
