@@ -5,7 +5,6 @@ project:
   id: f0fe0848-3e4d-4333-bd10-450d468374b9
   title: Processes in Porous Materials
   authors: [W. Bartels, D. Rieder, M. Ruecker]
-  github: https://github.com/Wi-Ba/wiba.github.io
   edit_url: null
   jupyter:
     binder:
