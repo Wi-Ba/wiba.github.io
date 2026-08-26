@@ -26,3 +26,4 @@ site:
     hide_launcher: true
     show_launch_buttons: false
     logo: figures/TUe-logo-scarlet-L.png
+    show_source: false
