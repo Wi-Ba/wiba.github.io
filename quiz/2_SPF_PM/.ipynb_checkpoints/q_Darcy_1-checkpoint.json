@@ -1,6 +1,6 @@
 [
     {
-        "question": "A concrete dam is $95 \\text{ m}$ long parallel to its axis, across the valley. The head on the upstream side of the dam is $14 \\text{ m}$ higher than the head on the downstream side. There is a thin sand layer under the entire concrete base of the dam. It is $0.6 \\text{ m}$ thick on average, and extends about $25 \\text{ m}$ from the upstream to the downstrdeamside of the dam. The sand's effective porosity is $\\phi =0.34$. A dye tracer test from upstream to downstream indicates that the average linear velocity within this sand is $\bar{v}_x = 13 \\text{ m/day}$ ($x$ is parallel to the layer, perpendicular to the dam's axis).<br><br> Calculate the specific discharge $q_x$ through the sand layer.",
+        "question": "A concrete dam is $95 \\text{ m}$ long parallel to its axis, across the valley. The head on the upstream side of the dam is $14 \\text{ m}$ higher than the head on the downstream side. There is a thin sand layer under the entire concrete base of the dam. It is $0.6 \\text{ m}$ thick on average, and extends about $25 \\text{ m}$ from the upstream to the downstrdeamside of the dam. The sand's effective porosity is $\\phi =0.34$. A dye tracer test from upstream to downstream indicates that the average linear velocity within this sand is $\\bar{v}_x = 13 \\text{ m/day}$ ($x$ is parallel to the layer, perpendicular to the dam's axis).<br><br> Calculate the specific discharge $q_x$ through the sand layer.",
         "type": "numeric",
         "precision": 2,
         "answers": [
