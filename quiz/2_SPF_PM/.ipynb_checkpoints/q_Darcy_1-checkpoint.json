@@ -83,22 +83,22 @@
         "answers": [
            {
                 "answer": "The total volume of voids in the rock, including isolated pores.",
-                "correct": False,
+                "correct": false,
                 "feedback": "Incorrect. This defines total porosity. Effective porosity only considers interconnected pores."
             },
             {
                 "answer": "The volume of interconnected pores that can actually transmit fluids.",
-                "correct": True,
+                "correct": true,
                 "feedback": "Correct! Only the connected open spaces contribute to fluid flow."
             },
             {
                 "answer": "The velocity at which a fluid flows through the soil under the influence of gravity.",
-                "correct": False,
+                "correct": false,
                 "feedback": "Incorrect. This describes hydraulic conductivity or permeability, not porosity itself."
             },
             {
                 "answer": "The ratio between the weight of the dry rock and the weight of the saturated rock.",
-                "correct": False,
+                "correct": false,
                 "feedback": "Incorrect. This relates to bulk density or moisture content, not the pore structure."
             }
             
